@@ -1,6 +1,6 @@
 # Employee-Details
 <h2>AVD Screen Shot<br>
-<img width="334" alt="Screenshot 2022-08-24 at 11 49 00 AM" src="https://user-images.githubusercontent.com/80560020/186349778-d6510624-e797-4a2b-8664-77583cdd585e.png">
+<img width="334" alt="Screenshot 2022-08-24 at 11 49 00 AM" src="https://user-images.githubusercontent.com/80560020/186349778-d6510624-e797-4a2b-8664-77583cdd585e.png"><hr>
 <img width="334" alt="Screenshot 2022-08-24 at 11 49 17 AM" src="https://user-images.githubusercontent.com/80560020/186349800-d1144f6a-43c7-440c-9c66-65260951a93e.png">
 <br>
 <h2>Samsung A50 Screenshot
