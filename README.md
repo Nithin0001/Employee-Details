@@ -10,8 +10,8 @@
 
 <br><br>
 <h3>Successfully implemented the problem<br>
-Problem statement:
- Develop an Andorid App to perform below tasks (use Android Studio or Flutter): 
+Problem statement:<br>
+ Develop an Andorid App to perform below tasks (use Android Studio or Flutter): <br>
   <ul>
     <li>Call this API "https://reqres.in/api/users?page=2" to get the dataset</li>
     <li>Create a custom ListView using above dataset that shows below details 
