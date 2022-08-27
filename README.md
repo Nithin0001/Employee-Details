@@ -8,17 +8,3 @@
 <br><br>
 ![Screenshot_20220824-114725_Employee Details](https://user-images.githubusercontent.com/80560020/186350565-d38994fd-dae5-4b83-b695-73bcc559556f.jpg)
 
-<br><br>
-<h3>Successfully implemented the problem<br>
-Problem statement:<br>
- Develop an Andorid App to perform below tasks (use Android Studio or Flutter): <br>
-  <ul>
-    <li>Call this API "https://reqres.in/api/users?page=2" to get the dataset</li>
-    <li>Create a custom ListView using above dataset that shows below details <br>
-      ○ id <br>
-      ○ first_name <br> 
-      ○ last_name <br>
-      ○ email <br>
-     </li>
-    <li>Create a textbox above the ListView to search the employee by first_name</li>
-  </ul>
